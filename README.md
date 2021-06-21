@@ -2,7 +2,7 @@
 
 Continuação do bootcamp de HTML Web Developer.
 
-Parendendo criar páginas para internet com o Bootstrap. :smiley:
+Aprendendo criar páginas para internet com o Bootstrap. :smiley:
 
 ## :computer: 
 
